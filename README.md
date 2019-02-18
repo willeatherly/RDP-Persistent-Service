@@ -1,10 +1,10 @@
 ### RDP-Persistent-Service
 
-##What does it do?
+## What does it do?
 
 This magical service turns on RDP every 30 seconds on a users computer. If the service is turned off, the device will shut down.
 
-##usage
+## Usage
 
 To use, you need to load it into a users computer then run as a scheduled task.
 
