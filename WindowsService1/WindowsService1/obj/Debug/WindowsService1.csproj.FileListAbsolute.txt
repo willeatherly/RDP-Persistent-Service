@@ -1,0 +1,11 @@
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.manifest
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.application
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe.manifest
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.application

@@ -1,0 +1,6 @@
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe.config
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsService1.pdb
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\obj\Release\WindowsService1.csproj.CoreCompileInputs.cache
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\obj\Release\WindowsService1.exe
+c:\users\will goodbar\source\repos\WindowsService1\WindowsService1\obj\Release\WindowsService1.pdb
