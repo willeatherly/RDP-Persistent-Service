@@ -2,11 +2,11 @@
 
 ## What does it do?
 
-This magical service turns on RDP every 30 seconds on a users computer. If the service is turned off, the device will shut down.
+This service turns on RDP every 30 seconds on a users computer. If the service is turned off, the device will shut down.
 
 ## Usage
 
-To use, you need to load it into a users computer then run as a scheduled task.
+To use, follow the installation link at the end of this readme. It is recommended that you set the task to start at boot, though this is not required for the service to funciton. 
 
 Permissions: Administrator
 
