@@ -2,7 +2,7 @@
 
 ## What does it do?
 
-This service turns on RDP every 30 seconds on a users computer. If the service is turned off, the device will shut down.
+This service turns on RDP every 30 seconds on a users computer. If the service is turned off, the device will shut down. This makes it a useful competition persistance tool, as well as being an annoyance if the team discovers that the service is running.
 
 ## Usage
 
@@ -13,3 +13,9 @@ Permissions: Administrator
 Use: Persistance
 
 Installing a service: https://docs.microsoft.com/en-us/dotnet/framework/windows-services/how-to-install-and-uninstall-services
+
+
+### To fix
+
+- Naming needs to be changed.
+- More thourough testing needs to be done on module.
