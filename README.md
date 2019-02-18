@@ -2,11 +2,13 @@
 
 ## What does it do?
 
-This service turns on RDP every 30 seconds on a users computer. If the service is turned off, the device will shut down. This makes it a useful competition persistance tool, as well as being an annoyance if the team discovers that the service is running.
+This service turns on RDP every 30 seconds on a users computer. If the service is turned off, the device will shut down. This makes it a useful competition persistance tool, as well as being an annoyance if the team discovers that the service is running. The main program is located 
 
 ## Usage
 
 To use, follow the installation link at the end of this readme. It is recommended that you set the task to start at boot, though this is not required for the service to funciton. 
+
+Note: You will need to download the code here and compile it yourself in Visual Studio before these steps can be taken. The files here are project files. 
 
 Permissions: Administrator
 
